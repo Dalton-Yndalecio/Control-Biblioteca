@@ -27,7 +27,7 @@
             <div class="card-header">
               <h3 class="card-title mt-5">Lista de Préstamos</h3>
               <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-                <a  class="btn btn-outline-danger btn-sm mr-2 btn-reportes" ><i class="fas fa-file"></i>Reporte PDF</a>
+                {{--  <a  class="btn btn-outline-danger btn-sm mr-2 btn-reportes" ><i class="fas fa-file"></i>Reporte PDF</a>  --}}
                 <a  class="btn btn-outline-primary btn-sm mr-2 btn-prestamos-alumno" data-modal="Agregar"><i class="fas fa-book"></i> Nuevo P.L Alumno</a>
                 <a  class="btn btn-outline-success btn-sm mr-2 btn-prestamos-PLP"><i class="fas fa-book"></i> Nuevo P. L. Personal</a>      
  
